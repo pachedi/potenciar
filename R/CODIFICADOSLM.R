@@ -8,7 +8,7 @@
 #' INDEC: la solapa con los codigos del INDEC
 #' EXP: Listado de las UG con sus nombre y nro de expedientes
 #' TABlA : La tabla con los codigos de tipo de proyectos y Ejes
-#' CODSL : Solapa de proyectos socio laborales
+#' CODISL : Solapa de proyectos socio laborales
 #' 
 #' @param 1 Los parametros a utilizar son los siguientes: MUNI = MUNICIPIO (en mayuscula), 
 #' NPRO = numero de proyecto
