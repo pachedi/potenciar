@@ -1,4 +1,3 @@
-
 #' CODIFICAR SOLAPAS DE  CADA TIPO DE PROYECTO
 #'
 #' Esta funcion esta creada para codificar la solapa de SP de una UG municipal
