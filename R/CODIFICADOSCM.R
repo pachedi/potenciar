@@ -2,9 +2,8 @@
 #' CODIFICAR SOLAPAS DE  CADA TIPO DE PROYECTO
 #'
 #' Esta funcion esta creada para codificar la solapa de SC de una UG municipal
-#' Requiere algunos pre requisitos: La columna de N de proyecto tiene que estar descombinada y todas
-#' las lineas deben tener el n de proyecto para filtrar correctamente.
-#' También debemos tener cargados algunos objetos previo a la utilización de esta funcio:
+#' Requiere algunos pre requisitos: 
+#' Debemos tener cargados algunos objetos previo a la utilización de esta funcion:
 #' 
 #' INDEC: la solapa con los códigos del INDEC
 #' EXP: Listado de las UG con sus nombre y nro de expedientes
