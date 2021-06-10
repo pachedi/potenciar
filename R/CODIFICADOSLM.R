@@ -7,7 +7,7 @@
 #' 
 #' INDEC: la solapa con los codigos del INDEC
 #' EXP: Listado de las UG con sus nombre y nro de expedientes
-#' TABlA : La tabla con los cÃ³digos de tipo de proyectos y Ejes
+#' TABlA : La tabla con los codigos de tipo de proyectos y Ejes
 #' CODSL : Solapa de proyectos socio laborales
 #' 
 #' @param 1 Los parametros a utilizar son los siguientes: MUNI = MUNICIPIO (en mayuscula), 
@@ -15,7 +15,7 @@
 #' @keywords Codificacion, Potenciar trabajo
 #' @export
 #' @examples
-#' CODIFICAR(MORENO, i) 
+#' CODIFICAR(MORENO, 1) 
 #' 
 #' 
 #' 
