@@ -15,7 +15,7 @@
 #' @keywords Codificacion, Potenciar trabajo
 #' @export
 #' @examples
-#' CODIFICAR(MORENO, i) 
+#' CODIFICAR(MORENO, 1) 
 #' 
 #' 
 #' 
